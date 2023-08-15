@@ -20,6 +20,7 @@
 
 #  :open_book: hello-rails-react <a name="about-project"></a>
 hello-rails-backend is project to practice setting up a Rails/React project as two apps. This repository is the backend app
+- [Link to frontend app](https://github.com/newhoteng/hello-react-front-end/tree/frontend)
 
 
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
